@@ -1,0 +1,5 @@
+name: Alloy Compact Menu
+type: module
+description: Provides a menu link field for compact menus
+core: 8.x
+package: Alloy
