@@ -3,7 +3,7 @@
   "type": "drupal-module",
   "description": "Provides a menu link field for compact menus",
   "keywords": ["Drupal"],
-  "license": "Proprietary",
+  "license": "proprietary",
   "homepage": "https://code.kilpho.st/alloy/alloy-compact-menu",
   "minimum-stability": "dev",
   "support": {
